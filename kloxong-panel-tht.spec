@@ -1,12 +1,12 @@
 %define kloxocp /home/kloxo/httpd/cp
-%define productname kloxong-panel
+%define productname kloxokr-panel
 %define packagename tht
 %define sourcename %{packagename}
 
 Name: %{productname}-%{packagename}
 Summary: Web-based Billing System
 Version: 1.2.6
-Release: 3.kng%{?dist}
+Release: 3.kkr%{?dist}
 License: GPL
 URL: http://thehostingtool.com/
 Group: Applications/Internet
